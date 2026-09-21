@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Ablation Study for Flux-Ent — Kendall's τ only.
+Ablation Study for Flux-Ent.
 
 Evaluates five variants:
   - Flux only
